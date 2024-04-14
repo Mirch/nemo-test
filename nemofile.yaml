@@ -1,3 +1,5 @@
 name: nemo-test
 commands:
   - echo "Initializing Nemo..."
+ignore:
+  - .git
