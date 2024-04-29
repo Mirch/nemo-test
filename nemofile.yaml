@@ -1,5 +1,7 @@
+version: 0.1.1
 name: nemo-test
 commands:
-  - echo "Initializing Nemo..."
+  - echo "Initializing Pont..."
 ignore:
   - .git
+  - README.md
